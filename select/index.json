@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "She's A God",
   "base_artist": "Neck Deep",
-  "createdAt": "2026-03-31T12:04:17.590644Z",
+  "createdAt": "2026-03-31T12:31:29.588162Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -315,6 +315,15 @@
       "artist": "Neck Deep",
       "has_synced": false,
       "path": "select/pl_01_She's_A_God_Neck_Deep.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "She's A God",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/localdb_01_She's_A_God_Neck_Deep.lrc",
+      "repo_name": "aJvXuSxt9Gg"
     }
   ]
 }
