@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "base_track": "She's A God",
+  "base_artist": "Neck Deep",
+  "createdAt": "2026-03-31T12:04:17.590644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She's A God",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/01_She's_A_God_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She's A God",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/02_She's_A_God_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She's a God",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/03_She's_a_God_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If There's a God",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/04_If_There's_a_God_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If There's a God",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/05_If_There's_a_God_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A God in an Alcove",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/06_A_God_in_an_Alcove_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I am not a woman, I'm a god",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/07_I_am_not_a_woman,_I'm_a_god_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Have a God",
+      "artist": "Robots In Disguise",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Have_a_God_Robots_In_Disguise.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A God in an Alcove - Live HP81",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/09_A_God_in_an_Alcove_-_Live_HP81_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HARD TO BE A GOD",
+      "artist": "HEALTH feat. NOLIFE",
+      "has_synced": true,
+      "path": "select/10_HARD_TO_BE_A_GOD_HEALTH_feat._NOLIFE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HARD TO BE A GOD (feat. NOLIFE)",
+      "artist": "Health",
+      "has_synced": true,
+      "path": "select/11_HARD_TO_BE_A_GOD_(feat._NOLIFE)_Health.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Architecture of a God",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/12_Architecture_of_a_God_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/13_Mike_Dexter_Is_A_God,_Mike_Dexter_Is_A_Role_Model,_Mike_Dexter_Is_An_Asshole_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mike Dexter Is a God, Mike Dexter Is a Role Model, Mike Dexter Is an Asshole (Live)",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/14_Mike_Dexter_Is_a_God,_Mike_Dexter_Is_a_Role_Model,_Mike_Dexter_Is_an_Asshole_(Li_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Am A God",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/15_I_Am_A_God_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Am A God (feat. God)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/16_I_Am_A_God_(feat._God)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Praying to a God",
+      "artist": "Nico & Vinz",
+      "has_synced": true,
+      "path": "select/17_Praying_to_a_God_Nico_&_Vinz.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A God to Many Devils",
+      "artist": "Kids In Glass Houses",
+      "has_synced": true,
+      "path": "select/18_A_God_to_Many_Devils_Kids_In_Glass_Houses.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "A God Called Hubris",
+      "artist": "Unknown Mortal Orchestra",
+      "has_synced": true,
+      "path": "select/19_A_God_Called_Hubris_Unknown_Mortal_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Am a God (ft. God)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/20_I_Am_a_God_(ft._God)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Prayin' to a God - 2009 - Remaster",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/21_Prayin'_to_a_God_-_2009_-_Remaster_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "There Is A God",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/22_There_Is_A_God_MAX.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "She's A Miracle",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/23_She's_A_Miracle_Exile.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "She's A Miracle (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/24_She's_A_Miracle_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "She's a Rebel",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/25_She's_a_Rebel_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "She's A Bitch",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/26_She's_A_Bitch_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "She's a Diamond",
+      "artist": "Ópal",
+      "has_synced": false,
+      "path": "select/27_She's_a_Diamond_Ópal.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "She's A Rejecter",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/28_She's_A_Rejecter_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "She's A Rainbow",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/29_She's_A_Rainbow_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "She's a Superstar",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/30_She's_a_Superstar_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "She's A Superstar - Edit",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/31_She's_A_Superstar_-_Edit_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "She's A Superstar [Edit]",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/32_She's_A_Superstar_[Edit]_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "He's a Woman She's a Man",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/33_He's_a_Woman_She's_a_Man_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "She's A Fast Persuader",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/34_She's_A_Fast_Persuader_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "She's A Mover",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/35_She's_A_Mover_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "She's a Lover",
+      "artist": "Bob Geldof",
+      "has_synced": false,
+      "path": "select/36_She's_a_Lover_Bob_Geldof.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "She's a Carioca",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/37_She's_a_Carioca_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "She's a Woman",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/38_She's_a_Woman_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She's A God",
+      "artist": "Neck Deep",
+      "has_synced": false,
+      "path": "select/pl_01_She's_A_God_Neck_Deep.txt"
+    }
+  ]
+}
